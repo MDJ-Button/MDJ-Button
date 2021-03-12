@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MDJ-Button
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Python and WxWidgets
 
 <!---
 MDJ-Button/MDJ-Button is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
