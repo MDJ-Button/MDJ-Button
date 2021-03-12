@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MDJ-Button
+- 👋 Hi, I’m Martin De Jonge - @MDJ-Button
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning Python and WxWidgets
 
